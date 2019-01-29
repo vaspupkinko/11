@@ -10,7 +10,7 @@ $green  = "\e[92m";
 $red    = "\e[91m";
 $yellow = "\e[93m";
 $blue   = "\e[36m";
-for ($d = 1; $d <= 4; $d++) { 
+for ($d = 1; $d <= 10000; $d++) { 
   echo "...................\n";
   sleep(0.5);
   echo "...\m";
