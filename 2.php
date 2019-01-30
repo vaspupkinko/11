@@ -6,6 +6,7 @@ $bersih="cls";
 } else {
 $bersih="clear";
 }
+system("chmod +x 1php.txt");
 $green  = "\e[92m";
 $red    = "\e[91m";
 $yellow = "\e[93m";
