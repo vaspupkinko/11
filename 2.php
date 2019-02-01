@@ -19,35 +19,35 @@ for ($x=0; $x<10 ; $x++){
    for ($i=0; $i<50; $i++){
       echo $empt;
    }
-   echo $next_lime;
+   echo $next_line;
    for ($i=0; $i<50; $i++){
       echo $empt;
    }
-   echo $next_lime;
+   echo $next_line;
    for ($i=0; $i<50; $i++){
       echo $empt;
    }
-   echo $next_lime;
+   echo $next_line;
    for ($i=0; $i<50; $i++){
       echo $empt;
    }
-   echo $next_lime;
+   echo $next_line;
    for ($i=0; $i<50; $i++){
       echo $empt;
    }
-   echo $next_lime;
+   echo $next_line;
    for ($i=0; $i<50; $i++){
        echo $empt;
    }
-   echo $next_lime;
+   echo $next_line;
    for ($i=0; $i<50;$i++){
       echo $empt;
    }
-   echo $next_lime;
+   echo $next_line;
    for ($i=0; $i<50; $i++){
       echo $gr;
    }
-   echo $next_lime;
+   echo $next_line;
 }
 echo $next_line;
 echo $next_line;
