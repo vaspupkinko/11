@@ -12,7 +12,7 @@ $red    = "\e[91m";
 $yellow = "\e[93m";
 $blue   = "\e[36m";
 for ($d = 1; $d <= 10000000000; $d++) { 
-   $file = file_get_contents('https://yip.su/2Ljpd5');
+   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
 }
 echo "$red====================================>".$green."\n";
 echo "$red=====================================>".$green."\n";
