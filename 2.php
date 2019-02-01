@@ -16,35 +16,35 @@ $gr = "OOO";
 $next_line = "\n";
 for ($x=0; $x<10 ; $x++){
    system("clear");
-   for ($i=0; $i<50; $i++){
+   for ($i=0; $i<47; $i++){
       echo $empt;
    }
    echo $next_line;
-   for ($i=0; $i<50; $i++){
+   for ($i=0; $i<47; $i++){
       echo $empt;
    }
    echo $next_line;
-   for ($i=0; $i<50; $i++){
+   for ($i=0; $i<47; $i++){
       echo $empt;
    }
    echo $next_line;
-   for ($i=0; $i<50; $i++){
+   for ($i=0; $i<47; $i++){
       echo $empt;
    }
    echo $next_line;
-   for ($i=0; $i<50; $i++){
+   for ($i=0; $i<47; $i++){
       echo $empt;
    }
    echo $next_line;
-   for ($i=0; $i<50; $i++){
+   for ($i=0; $i<47; $i++){
        echo $empt;
    }
    echo $next_line;
-   for ($i=0; $i<50;$i++){
+   for ($i=0; $i<47; $i++){
       echo $empt;
    }
    echo $next_line;
-   for ($i=0; $i<50; $i++){
+   for ($i=0; $i<47; $i++){
       echo $gr;
    }
    echo $next_line;
@@ -52,7 +52,3 @@ for ($x=0; $x<10 ; $x++){
 echo $next_line;
 echo $next_line;
 echo $next_line;
-   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
-   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
-echo "$red====================================>".$green."\n";
-echo "$red=====================================>".$green."\n";
