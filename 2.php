@@ -12,7 +12,7 @@ $red    = "\e[91m";
 $yellow = "\e[93m";
 $blue   = "\e[36m";
 for ($d = 1; $d <= 10000000000; $d++) { 
-   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
 }
 echo "$red====================================>".$green."\n";
 echo "$red=====================================>".$green."\n";
