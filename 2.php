@@ -14,21 +14,37 @@ $b = "\e[36m";
 $empt = "   ";
 $gr = "OOO";
 $next_line = "\n";
-for ($x=0; $x<10; $x++){
+for ($x=0; $x<10 ; $x++){
    system("clear");
-   for ($i=0; $i<47; $i++){
+   for ($i=0; $i<50; $i++){
       echo $empt;
    }
    echo $next_lime;
-   for ($a=0; $a<47; $a++){
+   for ($i=0; $i<50; $i++){
+      echo $empt;
+   }
+   echo $next_lime;
+   for ($i=0; $i<50; $i++){
+      echo $empt;
+   }
+   echo $next_lime;
+   for ($i=0; $i<50; $i++){
+      echo $empt;
+   }
+   echo $next_lime;
+   for ($i=0; $i<50; $i++){
+      echo $empt;
+   }
+   echo $next_lime;
+   for ($i=0; $i<50; $i++){
        echo $empt;
    }
    echo $next_lime;
-   for ($b=0; $b<47; $b++){
+   for ($i=0; $i<50;$i++){
       echo $empt;
    }
    echo $next_lime;
-   for ($c=0; $c<47; $c++){
+   for ($i=0; $i<50; $i++){
       echo $gr;
    }
    echo $next_lime;
