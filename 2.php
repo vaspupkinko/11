@@ -7,12 +7,34 @@ $bersih="cls";
 $bersih="clear";
 }
 system("chmod +x 1php.txt");
-$green  = "\e[92m";
-$red    = "\e[91m";
-$yellow = "\e[93m";
-$blue   = "\e[36m";
-for ($d = 1; $d <= 10000000000; $d++) { 
+$g = "\e[92m";
+$r = "\e[91m";
+$y = "\e[93m";
+$b = "\e[36m";
+for ($d = 1; $d <= 10; $d++) { 
+   echo $b . "OOOOOOOOOOOOOO".$g."OOOO".$b."OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   sleep(0.8);
    echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   sleep(0.8);
+   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   sleep(0.8);
+   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   sleep(0.8);
+   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   sleep(0.8);
+   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   sleep(0.8);
+   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   sleep(0.8);
+   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   sleep(0.8);
+   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   sleep(0.8);
+   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   sleep(0.8);
+   echo "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n";
+   sleep(0.8);
+   
 }
 echo "$red====================================>".$green."\n";
 echo "$red=====================================>".$green."\n";
