@@ -14,7 +14,11 @@ $b = "\e[36m";
 $empt = "   ";
 $gr = "OOO";
 $next_line = "\n";
-for ($x=0; $x<10 ; $x++){
+for ($x=0; $x<1000000 ; $x++){
+   $move = trim(fgets(STDIN));
+   if ($move == "w"){
+      goto exit_1:
+   }
    system("clear");
    for ($i=0; $i<47; $i++){
       echo $empt;
@@ -49,6 +53,8 @@ for ($x=0; $x<10 ; $x++){
    }
    echo $next_line;
 }
+exit_1:
 echo $next_line;
 echo $next_line;
 echo $next_line;
+
