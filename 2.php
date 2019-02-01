@@ -15,22 +15,23 @@ $empt = "   ";
 $gr = "OOO";
 $next_line = "\n";
 for ($x=0; $x<10; $x++){
+   system("clear");
    for ($i=0; $i<47; $i++){
       echo $empt;
-      echo $next_lime;
    }
+   echo $next_lime;
    for ($a=0; $a<47; $a++){
-      echo $empt;
-      echo $next_line;
+       echo $empt;
    }
+   echo $next_lime;
    for ($b=0; $b<47; $b++){
       echo $empt;
-      echo $next_line;
    }
+   echo $next_lime;
    for ($c=0; $c<47; $c++){
       echo $gr;
-      echo $next_line;
    }
+   echo $next_lime;
 }
 echo $next_line;
 echo $next_line;
